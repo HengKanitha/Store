@@ -18,4 +18,6 @@ public  Customer(int cus_id,String cus_name,String cus_gender,String address,Str
 
     public Customer() {
     }
+
+
 }
